@@ -1,4 +1,4 @@
-# pneumonia_detection_system
+# Pneumonia Detection System
 Pneumonia Detection System using X-rays 
 
 This project focused on developing and evaluating deep learning models for the
